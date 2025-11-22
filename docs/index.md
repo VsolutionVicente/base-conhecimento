@@ -1,23 +1,41 @@
-# 🧰 Base de Scripts Úteis
+# 🧰 Base de Conhecimento – Scripts & Automação
 
-Repositório dedicado à documentação e organização de scripts úteis
-para SQL Server, SAP HANA, Python, Power BI, Oracle e automações.
+Bem-vindo à **Base de Conhecimento de Scripts Úteis**.
 
----
+Aqui estão organizados scripts, queries, exemplos e modelos utilizados no dia a
+dia em projetos de:
 
-## 📁 Categorias
-
-- **SQL Server**
-- **SAP HANA / B1**
-- **Python**
-- **Power BI**
-- **Oracle**
-- **ETL / Automação**
-- **Windows / Servidores**
+- Banco de Dados (SQL Server, SAP HANA, Oracle)
+- ETL e automação de processos
+- Power BI e Analytics
+- Administração de servidores e ambiente
 
 ---
 
-## 🚀 Objetivo
+## 📂 Áreas principais
 
-Centralizar e padronizar a documentação técnica em Markdown para uso
-rápido no dia a dia.
+- [SQL Server](./sql-server/README.md)
+- [SAP HANA / SAP Business One](./sap-hana/README.md)
+- [Python](./python/README.md)
+- [Power BI](./power-bi/README.md)
+- [Oracle](./oracle/README.md)
+- [ETL & Automação](./etl-automacao/README.md)
+- [Windows & Servidores](./windows-servidores/README.md)
+
+---
+
+## 🎯 Como usar
+
+1. Escolha a área (ex.: **SQL Server**)
+2. Abra o script/documento desejado
+3. Utilize, adapte e versione conforme a necessidade
+
+Sempre que criar um novo script ou solução, crie também uma **página Markdown**
+documentando:
+
+- Contexto do problema
+- Script
+- Parâmetros
+- Observações/importante
+- Exemplo de uso
+- Histórico de alterações
